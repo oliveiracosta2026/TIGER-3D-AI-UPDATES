@@ -1,6 +1,6 @@
 {
-  "version": "v1.6.0",
-  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_0_TURBO_GEMINI.zip",
-  "sha256": "4d06ef480c8ea60e4d0ddaf5d57536ced65015742580781051ca5e5cf3a349c2",
-  "notes": "TIGER 3D AI v1.6.0 TURBO - Gemini corrigido, fallback automático, retry, contexto e melhorias multimodais."
+  "version": "v1.6.1",
+  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_1_GEMINI_CHAT_FIX.zip",
+  "sha256": "ce3b7e955db6e404be24a819ce0d073d76a0337da103f0b4579ce7781863f1b2",
+  "notes": "TIGER 3D AI v1.6.1 - correção do chat Gemini, respostas, contexto, bloqueio de duplicação e melhorias de estabilidade."
 }
