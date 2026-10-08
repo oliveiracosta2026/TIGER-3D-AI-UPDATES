@@ -1,6 +1,6 @@
 {
-  "version": "v1.5.9",
-  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_5_9_GITHUB_UPDATER.zip",
- "sha256": "2b6463c642cab2b198795e607b175b0cc00f24bd3f1c397957e13b3f9594e5c4",
-  "notes": "TIGER 3D AI v1.5.9 - atualizador GitHub, backup automático e preservação de configurações."
+  "version": "v1.6.0",
+  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_0_TURBO_GEMINI.zip",
+  "sha256": "4d06ef480c8ea60e4d0ddaf5d57536ced65015742580781051ca5e5cf3a349c2",
+  "notes": "TIGER 3D AI v1.6.0 TURBO - Gemini corrigido, fallback automático, retry, contexto e melhorias multimodais."
 }
