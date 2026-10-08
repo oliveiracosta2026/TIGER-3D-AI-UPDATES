@@ -1,6 +1,6 @@
 {
-  "version": "v1.6.1",
-  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_1_GEMINI_CHAT_FIX.zip",
-  "sha256": "ce3b7e955db6e404be24a819ce0d073d76a0337da103f0b4579ce7781863f1b2",
-  "notes": "TIGER 3D AI v1.6.1 - correção do chat Gemini, respostas, contexto, bloqueio de duplicação e melhorias de estabilidade."
+  "version": "v1.6.3",
+  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_3_GEMINI_SDK.zip",
+  "sha256": "0b7cf057d76f1db36416aed23da9cbc4923a72dab9b4cee82c504003cea3a933",
+  "notes": "TIGER 3D AI v1.6.3 - SDK oficial Google GenAI, GenerateContent, suporte a imagens e fallback REST."
 }
