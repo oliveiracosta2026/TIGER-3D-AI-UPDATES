@@ -1,6 +1,6 @@
 {
-  "version": "v1.6.4",
-  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_4_GEMINI_SDK_FIX.zip",
-  "sha256": "38b901df5ffd6f07cf03836b7ebc6881748d5de978f218d6ea49e48f22282d09",
-  "notes": "TIGER 3D AI v1.6.4 - correção do atualizador, SDK oficial Google GenAI, suporte a texto e imagens e fallback REST."
+  "version": "v1.6.5",
+  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_5_GEMINI_CODE_FIX.zip",
+  "sha256": "a1fbda5bdec30f56fe6a8ea8937206beefe2493e0ac070ad23fe07429f90a1c9",
+  "notes": "TIGER 3D AI v1.6.5 - integração Gemini SDK usando o código fornecido, suporte a texto e imagens e atualização do sistema."
 }
