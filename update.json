@@ -1,6 +1,6 @@
 {
-  "version": "v1.6.9",
-  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_9_GEMINI_RETRY_APLICAR_FIX.zip",
-  "sha256": "57ca32343b747d5bd90113ec2c9ae6ec21970e00674b1e768225d414fe1f87ec",
-  "notes": "TIGER 3D AI v1.6.9 - retry Gemini, tratamento de indisponibilidade e aplicação local de parâmetros simples."
+  "version": "v1.7.0",
+  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_7_0_CORRECAO_JSON_FALLBACK.zip",
+  "sha256": "c550dce210101b5434075bc12abd6dd2f5a5b62ac77d12c40b97a8d831d066af",
+  "notes": "TIGER 3D AI v1.7.0 - fallback local para respostas Gemini com JSON incompleto."
 }
