@@ -1,6 +1,6 @@
 {
-  "version": "v1.6.7",
-  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_7_CORRECAO_RE_GEMINI.zip",
-  "sha256": "da04ed9efff4a6ca7d0de1eff97a9194ebdaba20e69f7bae67a603dfba046be4",
-  "notes": "TIGER 3D AI v1.6.7 - correção do NameError re no Gemini."
+  "version": "v1.6.8",
+  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_8_CORRECAO_APLICAR_PROJETO.zip",
+  "sha256": "PREENCHER_COM_SHA256_REAL_DO_ZIP",
+  "notes": "TIGER 3D AI v1.6.8 - correção do botão Interpretar + Aplicar ao Projeto, tratamento de JSON e aplicação dos parâmetros 3D."
 }
