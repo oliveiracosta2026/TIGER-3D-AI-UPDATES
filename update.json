@@ -1,6 +1,6 @@
 {
   "version": "v1.6.7",
-  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_5_GEMINI_CODE_FIX.zip",
-  "da04ed9efff4a6ca7d0de1eff97a9194ebdaba20e69f7bae67a603dfba046be4",
-  "notes": "TIGER 3D AI v1.6.7 - integração Gemini SDK usando o código fornecido, suporte a texto e imagens e atualização do sistema."
+  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_7_CORRECAO_RE_GEMINI.zip",
+  "sha256": "da04ed9efff4a6ca7d0de1eff97a9194ebdaba20e69f7bae67a603dfba046be4",
+  "notes": "TIGER 3D AI v1.6.7 - correção do NameError re no Gemini."
 }
