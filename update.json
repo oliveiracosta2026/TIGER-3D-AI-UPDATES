@@ -1,6 +1,6 @@
 {
   "version": "v1.6.8",
   "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_6_8_CORRECAO_APLICAR_PROJETO.zip",
-  "sha256": "PREENCHER_COM_SHA256_REAL_DO_ZIP",
+  "sha256": "cfa2bebca3399d4a4f776a3de758e91df90bd4f3f1b7328b4b52be56e48809a1",
   "notes": "TIGER 3D AI v1.6.8 - correção do botão Interpretar + Aplicar ao Projeto, tratamento de JSON e aplicação dos parâmetros 3D."
 }
