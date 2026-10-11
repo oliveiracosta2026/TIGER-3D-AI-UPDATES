@@ -1,6 +1,6 @@
 {
-  "version": "v1.7.0",
-  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_7_0_CORRECAO_JSON_FALLBACK.zip",
-  "sha256": "c550dce210101b5434075bc12abd6dd2f5a5b62ac77d12c40b97a8d831d066af",
-  "notes": "TIGER 3D AI v1.7.0 - fallback local para respostas Gemini com JSON incompleto."
+  "version": "v1.7.1",
+  "url": "https://github.com/oliveiracosta2026/TIGER-3D-AI-UPDATES/raw/refs/heads/main/TIGER_3D_AI_v1_7_1_STUDIO_IA_INTEGRADA.zip",
+  "sha256": "c82e0490c2fbc731cf64be65b74cd49eaa11dbdee4a73c61217ac512a5b74610",
+  "notes": "TIGER 3D AI v1.7.1 - integração IA online/local, fallback JSON e referências visuais aprimoradas."
 }
